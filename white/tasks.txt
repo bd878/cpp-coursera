@@ -1,0 +1,16 @@
+15
+ADD 5 Salary
+ADD 31 Walk
+ADD 30 WalkPreparations
+ADD 31 WatchFilm
+DUMP 5
+DUMP 31
+DUMP 15
+DUMP 30
+NEXT
+DUMP 28
+DUMP 5
+NEXT
+DUMP 5
+NEXT
+DUMP 31
